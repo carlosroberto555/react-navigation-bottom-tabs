@@ -1,1 +1,1 @@
-export { default as createBottomTab } from './bottom-navigation'
+export { createBottomTab } from './bottom-navigation'
